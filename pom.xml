@@ -6,7 +6,7 @@
 <version>1.0-SNAPSHOT</version>
 
 <packaging>war</packaging>
-<name>NNWebApp Maven Webapp</name>
+<name>NNWebApp</name>
 <url>http://maven.apache.org</url>
 
 <dependencies>
@@ -26,7 +26,7 @@
 
 </dependencies>
 <build>
-    <finalName>mywebapp</finalName>
+    <finalName>NNWebApp</finalName>
     <plugins>
         <plugin>
             <groupId>org.apache.tomcat.maven</groupId>
